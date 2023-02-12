@@ -1,6 +1,6 @@
 # MartysSuperApp
 
-- Sample app where I try out new things
+<b>Sample app where I try out new things</b>
 
 - Uses Dagger for DI
 - Jetpack Compose for UI
